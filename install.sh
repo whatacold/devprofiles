@@ -1,2 +1,5 @@
-ln -s .astylerc ~/.astylerc
+#!/bin/sh
+
+# Turns out that astyle don't support link profile file
+cp .astylerc ~/
 

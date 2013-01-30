@@ -1,7 +1,13 @@
 #####################################
 # AStyle Code Formatting Options File
 # Based on https://bitbucket.org/cjohnson/dotfiles/raw/096ce33f6d7b00bd57ce80174e25a596faf1827c/.astylerc
+# Online Doc: http://astyle.sourceforge.net/astyle.html
 #####################################
+
+style=kr
+
+# Don't reserve original file
+suffix=none
 
 # Make recursive
 recursive
