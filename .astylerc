@@ -10,7 +10,8 @@ style=kr
 suffix=none
 
 # Make recursive
-recursive
+# I just don't know how to use this option :(
+#recursive
 
 # Don't changed the last modified date stamp
 preserve-date
